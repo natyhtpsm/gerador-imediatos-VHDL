@@ -1,2 +1,3 @@
 # gerador-imediatos-VHDL
-UNIVERSIDADE DE BRASÍLIA INSTITUTO DE CIÊNCIAS EXATAS DEPARTAMENTO DE CIÊNCIA DA COMPUTAÇÃO ORGANIZAÇÃO E ARQUITETURA DE COMPUTADORES - OAC Trabalho: Gerador de Imediatos VHDL Nome: Nathália P. Assis 
+Módulo em VHDL que gere os dados imediatos utilizados nas instruções do processador RISC-V.
+
